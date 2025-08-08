@@ -33,3 +33,9 @@ git push origin main
 
 ### 🔁 Pull Remote Changes
 git pull
+
+## 🔄 Task 4: Update and Push
+
+1. Keep making small changes to task files, commit, and push.
+
+2. Ensure all changes and git commands are recorded in README.md
